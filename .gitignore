@@ -2,7 +2,7 @@ postgres/*
 postgres.tar.bz2
 
 *.o
-*.a
+/src/postgres/*.a
 
 examples/*
 !examples/*.c
